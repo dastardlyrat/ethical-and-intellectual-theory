@@ -32,6 +32,7 @@ This README is a **navigation and scope document**, not a certification of every
 | --- | --- |
 | Foundational ethics and consent | [Full doctrine](research-ethics/SELF_DOCTRINE_EXTENDED.md) · [Consolidated axioms](research-ethics/SELF_DOCTRINE_EXTENDED.md#xviii-consolidated-axioms) |
 | AI collaboration and technical methodology | [ACAP](acap/README.md) · [Programming doctrine](programming-doctrine/HUMAN_DOCTRINE.md) |
+| Legal theory and terminology | [Legal Theory index](legal-theory/README.md) |
 | Public outreach and research status | [ReShade guidance](outreach/reshade/README.md) · [Site-hydration and machine-EOL roadmap](research-ethics/EOL_SITE_HYDRATION_AND_REHYDRATION_ROADMAP.md) |
 | Personal dossier and creative work | [Dossier](personal-dossier/personal_reconstruction_anonymized.md) · [Musings](personal-dossier/musings/README.md) |
 | Provenance, limits, and corrections | [Fallibility and redress](research-ethics/FALLIBILITY_APPROXIMATION_AND_REDRESS.md) · [Errata](ERRATA.md) · [Document history](#document-history) |
@@ -138,17 +139,9 @@ A bounded programming methodology connecting purpose, meaning, decomposition, ex
 
 The edition preserves explicit project profiles and open decisions. Its anonymous presentation does not imply personal identity, universal policy adoption, or runtime authority.
 
-### Witness-failure terminology
+## Legal theory
 
-[Read the four-part witness-failure terminology](legal-theory/witness-failure-terminology/README.md) — **Murdered Witness, Dead Witness, Undead Witness, and Suicide**. Controlled diagnostic categories for failures in legal reasoning and inherited justification, not established legal doctrines or findings of crime.
-
-### Legal Crime — ethical/legal distinction
-
-[Read the author-defined Legal Crime terminology](legal-theory/legal-crime/README.md) — Conduct described as **morally or ethically repulsive and abhorrent, but legal**. An ethical characterization, not a declaration that a criminal offense has occurred.
-
-### Proper Construction Attack — lawful means
-
-[Read the author-defined Proper Construction Attack terminology](legal-theory/proper-construction-attack/README.md) — **An attack carried through legal and lawful means.** A conceptual classification, not a finding of criminality, a proof of lawfulness in any particular case, or permission to undertake an attack.
+[Explore the Legal Theory index](legal-theory/README.md) — An extensible directory for author-defined legal concepts, legal-system implication research, and witness-failure terminology. Individual theories are maintained in their own folders and linked from the index rather than from this homepage.
 
 ## Public outreach and ongoing research
 
