@@ -146,6 +146,10 @@ The edition preserves explicit project profiles and open decisions. Its anonymou
 
 [Read the author-defined Legal Crime terminology](legal-theory/legal-crime/README.md) — Conduct described as **morally or ethically repulsive and abhorrent, but legal**. An ethical characterization, not a declaration that a criminal offense has occurred.
 
+### Proper Construction Attack — lawful means
+
+[Read the author-defined Proper Construction Attack terminology](legal-theory/proper-construction-attack/README.md) — **An attack carried through legal and lawful means.** A conceptual classification, not a finding of criminality, a proof of lawfulness in any particular case, or permission to undertake an attack.
+
 ## Public outreach and ongoing research
 
 The public-facing work and the machine-EOL case are distinct from the doctrine's primary ethical claims. Project-specific stages and reported observations retain their own evidence boundaries.
