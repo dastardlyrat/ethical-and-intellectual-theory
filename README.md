@@ -257,3 +257,11 @@ The original and earlier expansion remain available as source history. The exten
 <p><sub>A personal research-ethics doctrine.</sub></p>
 
 </div>
+
+## Project directory and related work
+
+[Browse the dastardlyrat project directory](https://dastardlyrat.github.io/).
+
+- [ai-collaborator-self-profile](https://github.com/dastardlyrat/ai-collaborator-self-profile)
+- [identity-atomic-cataloger](https://github.com/dastardlyrat/identity-atomic-cataloger)
+- [this-repository-machine-interface](https://github.com/dastardlyrat/this-repository-machine-interface)
