@@ -265,3 +265,7 @@ The original and earlier expansion remain available as source history. The exten
 - [ai-collaborator-self-profile](https://github.com/dastardlyrat/ai-collaborator-self-profile)
 - [identity-atomic-cataloger](https://github.com/dastardlyrat/identity-atomic-cataloger)
 - [this-repository-machine-interface](https://github.com/dastardlyrat/this-repository-machine-interface)
+
+## Public cross-repository discovery
+
+**Public research directory:** [topic map](https://dastardlyrat.github.io/research.html) · [machine-oriented navigation](https://dastardlyrat.github.io/machine.html) · [dated structured catalog](https://dastardlyrat.github.io/research-index.json). The directory indexes public entry points for source-led study; it is not a license override, consent to personal-methodology fingerprinting, or runtime authorization.
